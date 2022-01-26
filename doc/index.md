@@ -5,4 +5,4 @@ Modules.md
 FAQ.md
 ContributeAndFeedback.md
 Credits.md
-LICENSE.md
+LCENSE.md

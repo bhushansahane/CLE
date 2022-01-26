@@ -171,7 +171,7 @@ _N=`hostname`
 CLE_IP=${CLE_IP:-`cut -d' ' -f3 <<<$SSH_CONNECTION`}
 
 # where in the deep space CLE grows
-CLE_SRC=https://raw.githubusercontent.com/micharbet/CLE/Zodiac
+CLE_SRC=https://raw.githubusercontent.com/bsahane/CLE/Zodiac
 CLE_VER=`sed -n 's/^#\* version: //p' $CLE_RC`
 CLE_VER="$CLE_VER debug"			# dbg
 
